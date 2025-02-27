@@ -1,0 +1,19 @@
+Este ejercicio esta disenado para ayudarte a entender los conceptos basicos de los algoritmos al darte 
+un ejemplo del mundo real sobre como llevar tu coche a dar un paseo
+
+
+SOLUCION:
+
+revisar el estado de las llantas 
+revisar los liquidos (frenos, coolant, aceites)
+comprobar que los cinturones de seguridad funcionan
+abrir la puerta
+el vehiculo esta abierto?
+-si esta cerrado, uso la alarma para abrirlo
+-si esta abierto abro la puerta
+encender el vehiculo y dejarlo calentar 
+comprobar el nivel de gasolina
+revisar el funcionamiento de las luces 
+abrir el porton de la casa
+sacar el carro
+cerrar el porton de la casa
