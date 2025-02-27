@@ -1,0 +1,19 @@
+Proporcionar una explicacion detallada en un archivo txt de como cocinar un huevo
+
+SOLUCION:
+
+comprar el huevo
+revisar si hay mantequilla
+-si no hay, usar aceite
+buscar un sarten
+encender la cocina
+colocar la mantequilla o el aceite en el sarten 
+romper el huevo
+echar el huevo sin la cascara
+
+quiero huevo frito o picado?
+-si quiero huevo frito dejar freir y cuidar que no se queme
+-si quiero huevo picado revolver el huevo
+
+al terminar, colocar en un plato
+apagar la cocina y retirar el sarten
