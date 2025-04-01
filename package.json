@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Josue-Sibaja/devlaunch-Josue-Sibaja/issues"
   },
-  "homepage": "https://github.com/Josue-Sibaja/devlaunch-Josue-Sibaja#readme"
+  "homepage": "https://github.com/Josue-Sibaja/devlaunch-Josue-Sibaja#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
